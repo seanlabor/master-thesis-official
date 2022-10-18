@@ -1,0 +1,1 @@
+Download *.npy data from https://github.com/googlecreativelab/quickdraw-dataset
